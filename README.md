@@ -48,10 +48,8 @@ h1 {
     font-weight: bold;
     font-family: monospace;
     font-size: 16px;
-  }
-  
+  } 
 }
-
 .block-cube {
   position: relative;
   .bg-top {
@@ -150,7 +148,6 @@ h1 {
     }
   }
 }
-
 .credits {
     position: fixed;
     left: 0;
@@ -158,7 +155,6 @@ h1 {
     padding: 15px 15px;
     width: 100%;
     z-index: 111;
-
     a {
         opacity: 0.6;
         color: #fff;
